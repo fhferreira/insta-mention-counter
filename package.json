@@ -1,0 +1,15 @@
+{
+  "name": "insta-mention-counter",
+  "version": "1.0.0",
+  "description": "Read a instagram URL and get all commets counting the profile most typed",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "puppeteer": "^5.2.1"
+  }
+}
